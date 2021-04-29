@@ -10,4 +10,8 @@ class PanyyApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	public void hello(){
+		System.err.println("hello");
+	}
 }
